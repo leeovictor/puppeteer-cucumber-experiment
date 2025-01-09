@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-poc",
+  "version": "1.0.0",
+  "description": "a basic puppeteer + cucumber poc",
+  "scripts": {
+    "test": "cucumber-js --format progress-bar"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "archiver": "^7.0.1",
+    "puppeteer": "^23.11.1"
+  },
+  "type": "module"
+}
